@@ -22,6 +22,8 @@ y para editarlo intente e intente y logre descubir que se hacia asi: button {
    
 }
 
+intente muchas veces poner un color fuera de la imagen de un lado de uno y otro del otro fue muy complicado oero tras una muy latga busqueda y muschos errores que me mercaba github lo logre 
+
 button:hover {}
 
 pero sobre todo me costo por me rocaba descargarlo en mp3 y con lo aprendido en otras clases logre ver como subirlo pero me costo por que no me acordaba 
