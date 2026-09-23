@@ -17,3 +17,8 @@ segun lo que busque en gemini para ponerle musica es asi:  <audio id="musica">
     <button onclick="document.getElementById('musica').play()">
         ▶ Escuchar música
     </button>
+y para editarlo intente e intente y logre descubir que se hacia asi: button {
+   
+}
+
+button:hover {}
