@@ -22,3 +22,5 @@ y para editarlo intente e intente y logre descubir que se hacia asi: button {
 }
 
 button:hover {}
+
+pero sobre todo me costo por me rocaba descargarlo en mp3 y con lo aprendido en otras clases logre ver como subirlo pero me costo por que no me acordaba 
